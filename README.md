@@ -1,5 +1,7 @@
 # Pneumonia Detection Using Convolutional Neural Networks
 
+CNN-based classification of chest X-ray images with validation-driven overfitting mitigation
+
 ## Overview
 
 This project implements and evaluates convolutional neural network (CNN)–based models to classify chest X-ray images as **Normal** or **Pneumonia**. The goal is to explore how deep learning techniques can assist in medical image classification while addressing common challenges such as **class imbalance** and **overfitting**.
