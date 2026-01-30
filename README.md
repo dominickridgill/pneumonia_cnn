@@ -115,5 +115,5 @@ No proprietary, confidential, or employer-owned code or data is included.
 ---
 
 **Author:** Dominick Ridgill  
-**Focus Areas:** Algorithms, Constraint Satisfaction, Heuristic Search
+**Focus Areas:** Applied Machine Learning, Data Analysis, Model Validation, Performance Evaluation
 
