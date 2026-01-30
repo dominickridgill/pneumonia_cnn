@@ -105,3 +105,15 @@ pneumonia-cnn/
 2. Run the script version with `python pneumonia_cnn.py`.
 3. Alternatively, open the notebook using `jupyter notebook pneumonia_cnn.ipynb`.
 
+---
+
+## Disclaimer
+
+This repository contains **only personal and academic work**.  
+No proprietary, confidential, or employer-owned code or data is included.
+
+---
+
+**Author:** Dominick Ridgill  
+**Focus Areas:** Algorithms, Constraint Satisfaction, Heuristic Search
+
