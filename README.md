@@ -87,7 +87,6 @@ These results align with known benchmarks for this dataset and avoid unrealistic
 
 ## Project Structure
 
-```text
 pneumonia-cnn/
 ├── README.md
 ├── pneumonia_cnn.ipynb
@@ -102,14 +101,7 @@ pneumonia-cnn/
 
 ## How to Run
 
----
-
-## How to Run
-
 1. Install dependencies using `pip install -r requirements.txt`.
-
 2. Run the script version with `python pneumonia_cnn.py`.
-
 3. Alternatively, open the notebook using `jupyter notebook pneumonia_cnn.ipynb`.
-
 
